@@ -29,7 +29,7 @@
     "dnspython": "^2.2.1",
     "pytz": "master",
     "apscheduler": "^3.9.0",
-    "python-dotenv: "^0.21.0"
+    "python-dotenv: "0.21.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
