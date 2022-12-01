@@ -1,7 +1,7 @@
 {
-3    "name": "GrooveTGS",
+3    "name": "GrooveTG",
 4    "version": "1.0.0",
-5    "description": "",
+5    "description": "tg bot",
 6    "scripts": {
 7        "build": "pip3 install -r requirements.txt",
 8        "test": "echo \"No test specified\" && exit 1",
