@@ -11,7 +11,7 @@
     "node": "16.x"
   },
   "scripts": {
-    "start": "node server.js",
+    "start": "python3 main.py",
     "dev": "nodemon server.js"
   },
   "dependencies": {
