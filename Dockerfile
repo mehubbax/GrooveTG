@@ -1,4 +1,3 @@
-FROM nikolaik/python-nodejs:python3.9-nodejs16
 
 RUN apt update && apt upgrade -y
 RUN apt install ffmpeg -y
